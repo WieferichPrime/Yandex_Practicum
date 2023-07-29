@@ -1,3 +1,3 @@
-# Yandex_Practicumэ
+# Yandex_Practicum
 
 Здесь храняться проекты, выполненные мной в ходе прохождения курса "Специалист по Data Science".
